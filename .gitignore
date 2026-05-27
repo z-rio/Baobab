@@ -10,4 +10,7 @@ __pycache__
 *.db
 
 DS_STORE
+.vs_code
 
+/**/migrations/
+!/**/migrations/__init__.py
